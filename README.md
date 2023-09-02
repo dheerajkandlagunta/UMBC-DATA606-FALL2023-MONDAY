@@ -1,5 +1,6 @@
 # Dheeraj Kandlagunta
 qe35253@umbc.edu | +1(469)-922-5124 | Baltimore, MD | [LinkedIn](www.linkedin.com/in/dheeraj-kandlagunta)
+![Dheeraj](https://github.com/dheerajkandlagunta/UMBC-DATA606-FALL2023-MONDAY/blob/main/Pictures/DheerajKandlagunta.jpg)
 
 Experienced Data engineer transitioning to a career in Data science adept at making data-driven decisions. Knowledgeable in a variety of software packages and AWS tools and successful in collaborating with cross-functional teams. Developing solutions with a focus on the end goal, utilizing back engineering techniques and a problem-solving mindset.
 
