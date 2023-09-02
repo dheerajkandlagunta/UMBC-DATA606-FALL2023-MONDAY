@@ -6,10 +6,7 @@ qe35253@umbc.edu | +1(469)-922-5124 | Baltimore, MD | [LinkedIn](www.linkedin.co
 Experienced Data engineer transitioning to a career in Data science adept at making data-driven decisions. Knowledgeable in a variety of software packages and AWS tools and successful in collaborating with cross-functional teams. Developing solutions with a focus on the end goal, utilizing back engineering techniques and a problem-solving mindset.
 
 ## CORE COMPETENCIES
-<div style="text-align: center;">
-Design Thinking | Data Visualization | Data Engineering | Interpersonal Skills Team Building | Analytics
-Implementation | Business Intelligence Enablement | Business Process Redesign | AWS Solution Architecture
-</div>
+Design Thinking | Data Visualization | Data Engineering | Interpersonal Skills Team Building | Analytics Implementation | Business Intelligence Enablement | Business Process Redesign | AWS Solution Architecture
 
 ## EDUCATION
 - Master of Professional Studies (MPS) in Data Science, University of Maryland Baltimore County
